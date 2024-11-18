@@ -1,6 +1,10 @@
 # react-native-password-protected-pdf
 This project uses React Native and the React Native PDF library to demonstrate viewing password-protected PDF documents.
 
+![Simulator Screenshot - iPhone 15 Pro - 2024-11-18 at 12 21 59](https://github.com/user-attachments/assets/5a15d5c0-9cce-463e-941f-f6f559ee78a2)
+
+![Simulator Screenshot - iPhone 15 Pro - 2024-11-18 at 12 22 11](https://github.com/user-attachments/assets/8a3a3858-d8a1-43c6-b99d-eb99dda9e779)
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
